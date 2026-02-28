@@ -24,8 +24,10 @@ To run this project, you will need a Gemini API Key.
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-link>
+   git clone (https://github.com/Ravi80595/cognizant-ai-challenge)
    cd cognizant-ai-challenge
+
+   
 Install dependencies:
 
 Bash
@@ -35,6 +37,7 @@ Create a .env.local file in the root directory and add your Gemini API Key:
 
 Code snippet
 GEMINI_API_KEY=your_api_key_here
+
 Run the development server:
 
 Bash
